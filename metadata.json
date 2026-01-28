@@ -1,0 +1,10 @@
+{
+    "uuid": "auto-screen-brightness-ng@davidx.top",
+    "name": "Auto Screen Brightness NG",
+    "description": "Automatically switch the screen brightness depending on the power supply status",
+    "url": "https://github.com/Davidasx/auto-screen-brightness",
+    "version": 7,
+    "shell-version": ["49"],
+    "session-modes": ["user", "unlock-dialog"],
+    "settings-schema": "org.gnome.shell.extensions.auto-screen-brightness-ng"
+}

@@ -8,12 +8,10 @@ The extension is available for installation on the [GNOME Shell Extensions websi
 
 To install manually follow the steps below:
 
-- download the latest version of the extension from the [releases page](https://github.com/Davidasx/auto-screen-brightness/releases)
+- download the latest ZIP version of the extension from GIT, original fork the [releases page](https://github.com/Davidasx/auto-screen-brightness/releases)
 - run the following command:
 
-    `$ gnome-extensions install auto-screen-brightness-ng@davidx.top.zip`
+    `$ gnome-extensions install auto-screen-brightness.zip`
 
 - restart your session (logout and login)
-- run the following command:
-
-    `$ gnome-extensions enable auto-screen-brightness-ng@davidx.top`
+- enable & configurate from extensions
